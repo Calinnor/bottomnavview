@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyBottomNav</string>
+    <string name="menu_str_home">home</string>
+    <string name="menu_str_chat">chat</string>
+    <string name="menu_str_profil">profil</string>
+    <string name="tv_str_content_home">accueil</string>
+    <string name="tv_str_content_chat">chat</string>
+</resources>
